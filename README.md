@@ -35,6 +35,6 @@ I used my own soldering iron to put everything together and my library's laser c
 
 Originally I hooked everything up using a breadboard like the original however wires kept wriggling loose thanks to library patron's enthusiastic pressing of the arcade button, so I got a prototype shield and soldered everything together. The wiring should be easy enough to work out if you look at the code but I can provide a wiring diagram if needed. 
 
-I expoxied the display into the case (in addition to screwing it on) because it was coming lose thanks to kids trying to push it into the case. The  case is glued together with titebond 2 except for the top (which has the arcade button in it) which has been left as a friction fit in case I need to open it up to repair anything, and has been painted with spray paint, acrylic paint (labels for the buttons) and finished with water based acrylic matt varnish.
+I expoxied the display into the case (in addition to screwing it on) because it was coming lose thanks to kids trying to push it into the case. The  case is glued together with titebond 2 except for the top (which has the arcade button in it) which has been left as a friction fit in case I need to open it up to repair anything. The case has been painted with spray paint, acrylic paint (labels for the buttons) and finished with water based acrylic matt varnish.
 
 I've included the files for laser cutting the enclosure in addition to the code for the timer.
